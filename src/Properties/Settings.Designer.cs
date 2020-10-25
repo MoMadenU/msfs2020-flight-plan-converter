@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LaddAdmin.Properties
+namespace FlightPlanConverter.Properties
 {
 
 
